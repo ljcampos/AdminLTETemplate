@@ -1,0 +1,15 @@
+c:\users\alumnotic\documents\visual studio 2012\Projects\administrador\WebApplication1\bin\WebApplication1.dll
+c:\users\alumnotic\documents\visual studio 2012\Projects\administrador\WebApplication1\bin\WebApplication1.pdb
+c:\users\alumnotic\documents\visual studio 2012\Projects\administrador\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\alumnotic\documents\visual studio 2012\Projects\administrador\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\alumnotic\documents\visual studio 2012\Projects\administrador\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\bin\WebApplication1.dll
+E:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\bin\WebApplication1.pdb
+E:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\obj\Debug\WebApplication1.dll
+E:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\bin\WebApplication1.dll
+F:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\bin\WebApplication1.pdb
+F:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\obj\Debug\WebApplication1.dll
+F:\ING\9Cuatrimestre\Aplicaciones\PARCIAL2\administrador\WebApplication1\obj\Debug\WebApplication1.pdb
